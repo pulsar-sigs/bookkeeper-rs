@@ -1,2 +1,4 @@
 # bookkeeper-rs
-Apache Bookkeeper client from Rust
+Apache Bookkeeper client from Rust  
+
+:warning: experimental session :warning:
