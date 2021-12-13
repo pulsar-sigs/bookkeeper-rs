@@ -1,7 +1,12 @@
 [package]
 name = "bookkeeper-rs"
+authors = ["wuxiaohui <wuxiaohui94@126.com>","Lan Liang <liangyuanpengem@163.com>"]
 version = "0.0.1"
 edition = "2018"
+license = "Apache-2.0"
+description = "Apache Bookkeeper Client"
+repository = "https://github.com/pulsar-sigs/bookkeeper-rs"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
