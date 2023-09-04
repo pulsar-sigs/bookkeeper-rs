@@ -1,7 +1,7 @@
 [package]
 name = "bookkeeper-rs"
 authors = ["wuxiaohui <wuxiaohui94@126.com>","Lan Liang <liangyuanpengem@163.com>"]
-version = "0.0.1"
+version = "0.0.2"
 edition = "2018"
 license = "Apache-2.0"
 description = "Apache Bookkeeper Client"
